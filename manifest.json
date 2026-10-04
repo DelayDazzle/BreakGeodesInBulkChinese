@@ -1,0 +1,10 @@
+{
+  "Name": "BreakGeodesInBulk Chinese Localization",
+  "Author": "DelayDazzle",
+  "Version": "1.0.0",
+  "Description": "BreakGeodesInBulk 的独立汉化补丁。",
+  "UniqueID": "DelayDazzle.BreakGeodesInBulkChinese",
+  "EntryDll": "BreakGeodesInBulkChinese.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
